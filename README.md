@@ -1,5 +1,7 @@
 # Electric-Task-5-PCB
 In this task, a Printed Circuit Board "PCB" have been designed in EasyEDA. The PCB consists of eight relays, each one is connected to a potentiometer. The PCB will be used to control the brush less motor in the robot.
+ 
+ 
 The designs of the PCB are shown below:
 
 
